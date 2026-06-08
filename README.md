@@ -6,7 +6,7 @@
 
 ## About Me
 
-[Write 3–4 sentences about yourself. Include your STEM interests, what subjects you study at A Level, and what you hope to study at university or do as a career. Be genuine — this is your voice.]
+[I am currently studying Film Studies, Mathematics and Drama for my A levels and aspire to further my formal education with a filmmaking degree where I hope to gain the skills and connections to become a filmmaker in the ever changing industry, thus I wanted to improve my technical and computer skills by achieving my Python for STEM award. I am always curious in computers and partically drones, therefore learning python will allow me to have a more flexible range of skills in the diverse working environments I hope to find myself in the near future.]
 
 ---
 
@@ -30,12 +30,29 @@ This portfolio documents my progress through a Python programming course designe
 
 | # | Project | Key Skills | Status |
 |---|---|---|---|
-| 1 | [Unit Converter](#) | Variables, functions, input/output | ✅ Complete |
-| 2 | [Number Guessing Game](#) | Loops, conditionals, random | ✅ Complete |
+| 1 | [Personal Maths Project](#) | Variables, functions, input/output | ✅ Complete |
+| 2 | [Detective Game](#) | Loops, conditionals, random | ✅ Complete |
 | 3 | [To-Do List](#) | Lists, functions, data structures | ✅ Complete |
-| 4 | [Student Grade Calculator](#) | Dictionaries, validation, error handling | ✅ Complete |
+| 4 | [Zeller's Formula](#) | Dictionaries, validation, error handling | ✅ Complete |
 | 5 | [OOP Bank Account](#) | Classes, OOP principles | ✅ Complete |
 | 6 | [Data Analysis Notebook](#) | Jupyter Notebooks, data exploration | ✅ Complete |
+
+---
+
+**Personal Maths Project**
+
+One of my earliest endevours in to the world of Python was attempting to use it in real life and creating an application that would not be something for me to spend hours on but to save me time. I built a math formula application that began with a menu asking what kind of triangle the user is struggling with.
+
+<img width="225" height="102" alt="Screenshot 2026-04-29 161205" src="https://github.com/user-attachments/assets/fc5c5358-7040-45e1-9a7c-677b8cd43e64" />
+
+---
+
+**DETECTIVE GAME**
+
+I began to enjoy creating applications that could be used in the real world but I gained an interest into seeing how fluid I could make my code for a user. I built a detective game where the user should find it intuative whilst also enjoying the challenge of finding a code to unlock a door!
+
+<img width="735" height="586" alt="image" src="https://github.com/user-attachments/assets/8882b2b2-3026-4fc9-a8be-81a852193394" />
+
 
 ---
 
@@ -54,8 +71,7 @@ This portfolio documents my progress through a Python programming course designe
 - Markdown for documentation
 
 ---
-
 ## Contact
 
-- **GitHub:** []
-- **Email:** [your school email]
+- **GitHub:** [jackdeeks-eng]
+- **Email:** [jackdeeks@icloud.com]
