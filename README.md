@@ -1,12 +1,12 @@
 # Jack Deeks
 **School:** Bishop's Stortford College  
 **Course:** Python for STEM  
-**Year:** Year 12
+**Year:** 12
 ---
 
 ## About Me
 
-[I am currently studying Film Studies, Mathematics and Drama for my A levels and aspire to further my formal education with a filmmaking degree where I hope to gain the skills and connections to become a filmmaker in the ever changing industry, thus I wanted to improve my technical and computer skills by achieving my Python for STEM award. I am always curious in computers and partically drones, therefore learning python will allow me to have a more flexible range of skills in the diverse working environments I hope to find myself in the near future.]
+I am currently studying Film Studies, Mathematics and Drama for my A levels and aspire to further my formal education with a filmmaking degree where I hope to gain the skills and connections to become a filmmaker in the ever changing industry, thus I wanted to improve my technical and computer skills by achieving my Python for STEM award. I am always curious in computers and partically drones, therefore learning python will allow me to have a more flexible range of skills in the diverse working environments I hope to find myself in the near future.
 
 ---
 
@@ -54,12 +54,21 @@ I began to enjoy creating applications that could be used in the real world but 
 <img width="735" height="586" alt="image" src="https://github.com/user-attachments/assets/8882b2b2-3026-4fc9-a8be-81a852193394" />
 
 ---
+
 **Reading Files**
 
 One of the largest uses of Python is to acess your local files and utilise this code to make your own files more organised. The code below is the fundamentals to reading files: 
+
 <img width="1110" height="410" alt="image" src="https://github.com/user-attachments/assets/66b39a84-3d32-45ed-8eb3-06ee861d10df" />
 
 ---
+
+**Zeller's Formula**
+This next personal project is based off of the popular Zeller's Formula which allows some to find the day in the week that corresponds with any date in history. This project furthered my abilities in python, escpecially in widening my range of code I can work on. Below is a screenshot of the code in Thonny for Zeller's Formula, here I used the example of finding the day of the week which someone is born from their date of birth. 
+
+<img width="1636" height="654" alt="image" src="https://github.com/user-attachments/assets/54e24e9c-4e7d-400d-83ab-0199b3d08869" />
+
+
 
 ## Skills I Have Developed
 
