@@ -32,7 +32,7 @@ This portfolio documents my progress through a Python programming course designe
 |---|---|---|---|
 | 1 | [Personal Maths Project](#) | Variables, functions, input/output | ✅ Complete |
 | 2 | [Detective Game](#) | Loops, conditionals, random | ✅ Complete |
-| 3 | [To-Do List](#) | Lists, functions, data structures | ✅ Complete |
+| 3 | [Reading Files](#) | Lists, functions, data structures | ✅ Complete |
 | 4 | [Zeller's Formula](#) | Dictionaries, validation, error handling | ✅ Complete |
 | 5 | [OOP Bank Account](#) | Classes, OOP principles | ✅ Complete |
 | 6 | [Data Analysis Notebook](#) | Jupyter Notebooks, data exploration | ✅ Complete |
@@ -53,6 +53,11 @@ I began to enjoy creating applications that could be used in the real world but 
 
 <img width="735" height="586" alt="image" src="https://github.com/user-attachments/assets/8882b2b2-3026-4fc9-a8be-81a852193394" />
 
+---
+**Reading Files**
+
+One of the largest uses of Python is to acess your local files and utilise this code to make your own files more organised. The code below is the fundamentals to reading files: 
+<img width="1110" height="410" alt="image" src="https://github.com/user-attachments/assets/66b39a84-3d32-45ed-8eb3-06ee861d10df" />
 
 ---
 
