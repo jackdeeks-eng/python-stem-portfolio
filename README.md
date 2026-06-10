@@ -35,7 +35,7 @@ This portfolio documents my progress through a Python programming course designe
 | 3 | [Reading Files](#) | Lists, functions, data structures | ✅ Complete |
 | 4 | [Zeller's Formula](#) | Dictionaries, validation, error handling | ✅ Complete |
 | 5 | [OOP Bank Account](#) | Classes, OOP principles | ✅ Complete |
-| 6 | [Data Analysis Notebook](#) | Jupyter Notebooks, data exploration | ✅ Complete |
+| 6 | [Validation Checking](#) | Jupyter Notebooks, data exploration | ✅ Complete |
 
 ---
 
@@ -64,11 +64,20 @@ One of the largest uses of Python is to acess your local files and utilise this 
 ---
 
 **Zeller's Formula**
+
 This next personal project is based off of the popular Zeller's Formula which allows some to find the day in the week that corresponds with any date in history. This project furthered my abilities in python, escpecially in widening my range of code I can work on. Below is a screenshot of the code in Thonny for Zeller's Formula, here I used the example of finding the day of the week which someone is born from their date of birth. 
 
 <img width="1636" height="654" alt="image" src="https://github.com/user-attachments/assets/54e24e9c-4e7d-400d-83ab-0199b3d08869" />
 
+---
 
+**OPP Bank Account**
+
+Next I attempted to build a simple bank account simulation which allowed me to paractice using classes in python. I wanted the user to be able to deposit money, withdraw money whilst also checking for sufficient funds beforehand, and check their balance. This project took me mutiple days as I struggled to understand the concept of classes. 
+
+
+
+---
 
 ## Skills I Have Developed
 
